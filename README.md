@@ -14,6 +14,14 @@ I also design and implement practical digital solutions using AI-assisted develo
 - No-code / low-code automations, forms, and simple integrations.
 - Landing pages and digital implementation for small businesses and service teams.
 
+## Featured project: WorkflowProof
+
+I built **WorkflowProof** to help n8n teams review exported workflows before release or client handoff. It scans the JSON in the browser and flags configuration issues worth checking, such as missing HTTP timeouts, incomplete error handling, and routes that could repeat a CRM write. The findings help teams decide what to fix or verify in staging.
+
+[Try the demo](https://workflow-updatev1.onrender.com/) · [See a sample CRM audit](https://workflow-updatev1.onrender.com/sample-audit.html) · [View the repository](https://github.com/Usuario614/WORKFLOW-UPDATE)
+
+Agencies can compare WorkflowProof with their existing QA on one workflow. For an assisted review or to evaluate the software for acquisition, [start here](https://workflow-updatev1.onrender.com/acquire.html).
+
 ## Selected practical projects
 
 | Project | Problem & solution | My role and stage |
